@@ -1,0 +1,6 @@
+#Mon May 13 01:23:20 MAGT 2013
+eclipse.preferences.version=1
+formatter.indentation.size=2
+formatter.tabulation.char=space
+formatter.tabulation.size=2
+formatterId=org.eclipse.dltk.ruby.formatter.RubyFormatterFactory
